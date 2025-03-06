@@ -1,4 +1,4 @@
 # Spotify-imersao-front-end
 
-Página principa do Spotify 
+Cópia da página principa do Spotify 
 (Imersão em Front-End na Alura)
